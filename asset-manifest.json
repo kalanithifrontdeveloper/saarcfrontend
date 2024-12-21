@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/saarcfrontend/static/css/main.31d6cfe0.css",
+    "main.js": "/saarcfrontend/static/js/main.df40e55b.js",
+    "static/js/453.8ab44547.chunk.js": "/saarcfrontend/static/js/453.8ab44547.chunk.js",
+    "index.html": "/saarcfrontend/index.html",
+    "main.df40e55b.js.map": "/saarcfrontend/static/js/main.df40e55b.js.map",
+    "453.8ab44547.chunk.js.map": "/saarcfrontend/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.df40e55b.js"
+  ]
+}
